@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The life and death of John Atherton lord bishop of Waterford and Lysmore within the kingdome of Ireland, borne neare Bridgwater in Sommersetshire. Who for incest, buggery, and many other enormous crimes, after having lived a vicious life, dyed a shamefull death, and was on the fifth of December last past, hanged on the gallows greene at Dublin, and his man Iohn Childe being his proctor, with whom he had committed the buggery, was hangd in March following at Bandon Bridges, condemned thereunto at the assises holden at Corke.</title>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88127</idno><idno type="EEBO-CITATION">99872669</idno>
+  <idno type="VID">156993</idno>
+  <idno type="EEBO-PROQUEST">2240943285</idno>
+  
+            <idno type="STC">Wing L2000</idno>
+            <idno type="STC">Thomason E167_6</idno>
+            <idno type="STC">ESTC R4391</idno>
+            <idno type="PROQUEST">99872669</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99872669e"/>
+            <note>(EEBO-TCP ; phase 2, no. A88127)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156993)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 29:E167[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The life and death of John Atherton lord bishop of Waterford and Lysmore within the kingdome of Ireland, borne neare Bridgwater in Sommersetshire. Who for incest, buggery, and many other enormous crimes, after having lived a vicious life, dyed a shamefull death, and was on the fifth of December last past, hanged on the gallows greene at Dublin, and his man Iohn Childe being his proctor, with whom he had committed the buggery, was hangd in March following at Bandon Bridges, condemned thereunto at the assises holden at Corke.</title>
+               </titleStmt>
+               <extent>[8] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed, 1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Woodcut ill. verso of t.p.</note>
+                  <note>Title page has printers' device (McK. 421 with fleur de lis).</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Atherton, John, 1598-1640.</term>
+               <term type="topical_term">Incest --  Ireland --  Early works to 1800.</term>
+               <term type="topical_term">Homosexuality --  Ireland --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156993:1"/>
+            <pb facs="tcp:156993:1"/>
+            <p>THE LIFE AND DEATH OF <hi>JOHN ATHERTON</hi> LORD BISHOP Of WATERFORD AND LYSMORE within the Kingdome of <hi>Jreland,</hi> borne neare Bridgwater in <hi>Somersetshire.</hi>
+            </p>
+            <p>Who for Incest, Buggery, and many other enormous crimes, after having li<g ref="char:EOLhyphen"/>ved a vicious life, dyed a shamefull death, and was on the fifth of December last past, hanged on the Gallows Greene at Dublin, and his man <hi>Iohn Childe</hi> being his Proctor, with whom he had committed the buggery, was hangd in March following at Ban<g ref="char:EOLhyphen"/>don Bridges, condemned thereunto at the Assises holden at Corke.</p>
+            <figure>
+               <figDesc>fleur-de-lys</figDesc>
+            </figure>
+            <p>London Printed, 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:156993:2"/>
+            <head>THE SHAMEFVLL ENDE, Of Bishop <hi>Atherton,</hi> and his Proctor <hi>Iohn Childe</hi>
+               <figure>
+                  <figDesc>woodcut of two hung men, one a closeup</figDesc>
+               </figure>
+            </head>
+            <pb facs="tcp:156993:2"/>
+            <l>COnfusion give my thoughts once leave to be</l>
+            <l>Exempted from thy lawlesse Tyranny▪</l>
+            <l>If for the space of but one poore hal<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e houre,</l>
+            <l>O give me leave to sit in quiets Bower,</l>
+            <l>That I with patience may delineate,</l>
+            <l>In lines of life this Prelates sordid state,</l>
+            <l>Who first in England did his life receive,</l>
+            <l>His education Oxford did him give,</l>
+            <l>Thence to a Benefice preferd he was,</l>
+            <l>In which he vitiously his time did passe,</l>
+            <l>And although married to a handsome wife,</l>
+            <l>blest with sweet children th'only joy of life,</l>
+            <l>Yet so farre basenesse did in him prevaile,</l>
+            <l>That unto Lust he himselfe set to saile;</l>
+            <l>Defloured Virgins, Marriage beds defilde,</l>
+            <l>With many other vitious crimes too vilde</l>
+            <l>To be conceivd, beyond all measure proud,</l>
+            <l>Impudence and ambition did him shroud.</l>
+            <l>Amongst his flock he sow'd seditious strife,</l>
+            <l>Set friend 'gainst friend, husband against wife.</l>
+            <l>So that 'mongst many he did live alone,</l>
+            <l>And loving none, beloved was of none.</l>
+            <l>Lastly through pride, high fare, and lustfull life,</l>
+            <l>Incest committed with the Sister of his wife,</l>
+            <l>For which he sued his pardon, and then fled</l>
+            <l>To Ireland, where a worser life he led,</l>
+            <pb facs="tcp:156993:3"/>
+            <l>There through insinuation did obtaine,</l>
+            <l>The Parsonage of S. <hi>Iohn,</hi> became Chaplaine</l>
+            <l>Vnto that honored Lord and worthy Peere,</l>
+            <l>Lord Chancellor there, Lord Viscount <hi>Loftus</hi> here,</l>
+            <l>By whose assistance he did eke require,</l>
+            <l>To be Sub-deane of Christ-church, one step higher,</l>
+            <l>Whose goodnesse for to guerdon he did prove,</l>
+            <l>A Iudas, and betrayd him for his love,</l>
+            <l>Brought him into disgrace with that great Sir,</l>
+            <l>Who brookt no Rivall nor Competitor,</l>
+            <l>Straffords sterne Earle, a man of eminent hight,</l>
+            <l>Knowledge, and wit, had it beene governd right.</l>
+            <l>Courage and resolution to those high</l>
+            <l>Imployments he had given him, but why</l>
+            <l>Should he his merits banish and so dye,</l>
+            <l>Imping his wings with false felicity?</l>
+            <l>Winning on him, by him he was preferd</l>
+            <l>Vnto the Bishoprick of Waterford,</l>
+            <l>And of Lysmore, where he did five yeares Lord it</l>
+            <l>In such sort, as all good men much abhord it.</l>
+            <l>But in the Interim marke what did befall,</l>
+            <l>If so he had had any grace at all,</l>
+            <l>At which he aimd, but not the grace of God,</l>
+            <l>But at such Grace as had our Graceles Laud</l>
+            <l>He surely warned was to mend his life,</l>
+            <l>By his owne Sister Master Le<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>kies wife,</l>
+            <l>Which Mast<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r Leakies Mother being dead,</l>
+            <l>And in her life-time conscious how he led</l>
+            <l>His lustfull life, her Ghoast in gastfull wise</l>
+            <l>Did oft appeare before her Sisters <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>yes,</l>
+            <l>But she feare-strucken durst not speake unto it,</l>
+            <l>Till oft appearing forced her to doe it:</l>
+            <pb facs="tcp:156993:3"/>
+            <l>Then thus she spake, Mother in Law what cause</l>
+            <l>You from your rest, to my unrest thus drawes?</l>
+            <l>Who answered, daughter tis the wicked life</l>
+            <l>Your Brother leads, warne him to mend his life;</l>
+            <l>If not, then plainely tell him tis decreed,</l>
+            <l>He shall be hangd, bid him repent with speede:</l>
+            <l>Then shall my restlesse spirit be at rest,</l>
+            <l>And not till then; Thus vanisht▪ she addrest</l>
+            <l>Herselfe for travaile, Into Ireland went</l>
+            <l>With this sad mess<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ge unto him was sent:</l>
+            <l>Which how he tooke to heart may plaine appeare</l>
+            <l>By the slight answer he returned her.</l>
+            <l>What must be, shalbe: If I must, I must dye,</l>
+            <l>Mariage, and hanging, come by destiny.</l>
+            <l>Thus scoft her counsell, sent her back, and when</l>
+            <l>Sh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e was returnd, he grew farre viler then</l>
+            <l>He was before, if Viler man may be,</l>
+            <l>For one bad Act before, committed three.</l>
+            <l>Here Lord like Prelates, two things I propound,</l>
+            <l>Or leave your Seas, or in them your vice Dround.</l>
+            <l>If ye will Bishops be, be such as was</l>
+            <l>That Godly Timothy, make him your glasse,</l>
+            <l>Shun avarice, shun extortion, shun vaine pride,</l>
+            <l>Shun hate, dissimulation, let your Guide</l>
+            <l>Be godlinesse. Shun Lust, Shun Buggary,</l>
+            <l>Shun Incest, Rape, and shun Adultery.</l>
+            <l>Be practizers of every honest thing,</l>
+            <l>Be meeke like Christ your Bishop Lord and King,</l>
+            <l>So may you live belov'd, and dye to life,</l>
+            <l>Not by the Axe or by the hangmans knife,</l>
+            <l>A halter as this Bishop here hath done,</l>
+            <l>When being hangd your selves doe scarce bemone:</l>
+            <pb facs="tcp:156993:4"/>
+            <l>And Proctors be ye warnd by Iohn Childs fall,</l>
+            <l>Least that his fate betide unto you all.</l>
+            <l>Lust, Avarice, Extortion of Fees</l>
+            <l>Caus'd him at London bridge his life to leese.</l>
+            <l>Y' are alike guilty: let not the same thing</l>
+            <l>Draw you like him to Heaven in a string.</l>
+            <l>Now to the Bishop we returne agen,</l>
+            <l>With whose loath'd Crimes I loath to fowle my pen,</l>
+            <l>A strict Lyst being taken of each whore</l>
+            <l>He was knowne to use, amounts to sixtie fower.</l>
+            <l>Nor was it out of frailty he did sin</l>
+            <l>In this vile sort, That might excus'd have bin.</l>
+            <l>For when that nature faild all these to please,</l>
+            <l>To provoke Lust he used Cantharides,</l>
+            <l>Nor did this Bravo as some Lechers use</l>
+            <l>When they have acted sinne, seeke to excuse</l>
+            <l>The same by mincing or a flat deniall,</l>
+            <l>He scornd such basenesse, let him make a triall</l>
+            <l>Of any neighbours wife, as oft he did,</l>
+            <l>He would not have his dealing to be hid.</l>
+            <l>He'd rather Iustifie the act for good,</l>
+            <l>As thus, twas done, to purifie the blood.</l>
+            <l>Or if a barren wombe he chanc'd to prove,</l>
+            <l>Twas cause he did not the Stone Collick love.</l>
+            <l>Some women he did doe in Charitie</l>
+            <l>And some because they us'd good Cookery,</l>
+            <l>Knew how to please his pallat as his bed,</l>
+            <l>So that at once his Corpes and Lust he fed.</l>
+            <l>Thus many salves he had for many sores,</l>
+            <l>But still the cure was wrought by the art of his whores.</l>
+            <l>If not, t'aduance his Lust this Lustfull Elfe</l>
+            <l>Had tricks enough whereby to helpe himselfe.</l>
+            <pb facs="tcp:156993:4"/>
+            <l>A man well knowne in Waterford had neede</l>
+            <l>To borrow A hundred pounds, in hope to speed</l>
+            <l>Vnto this Reverend Lord he did addresse</l>
+            <l>Himselfe, and his sute, which thus he did expresse:</l>
+            <l>My Lord <hi>I</hi> oft have tasted of your favour</l>
+            <l>And promises to doe me good, which rather</l>
+            <l>Induceth me unto this bould request.</l>
+            <l>Your Lordship wilbe pleas'd to make me blest</l>
+            <l>With the Loane of 100. pound which Ile repay</l>
+            <l>Within a month or else on any day</l>
+            <l>Your Lordship shall appoint. This courteous Lord</l>
+            <l>Answer'd, Sir you shall have it on your word</l>
+            <l>And more to doe you good, but let your wife</l>
+            <l>Be present, least there should be any strife,</l>
+            <l>If you should faile for to repay the same,</l>
+            <l>Or <hi>I</hi> for breach of payment should make claime.</l>
+            <l>He grants, and goes, shee comes, the mony's ready,</l>
+            <l>So is my Lord, And the poore Cuckold's needy.</l>
+            <l>Sir saith my Lord, though't be an intire summe,</l>
+            <l>It is odd mony that to me is come.</l>
+            <l>Amongst it all ther's but one piece of gould,</l>
+            <l>That with the rest not easie to be tould,</l>
+            <l>Goe draw it out within my study dore,</l>
+            <l>Ile trust you there, but will not many more.</l>
+            <l>But cause your credits crackt, ile keep the Key,</l>
+            <l>The dore being lockt, mean while your wife shal stay</l>
+            <l>And talke with me: tis granted, in his seat</l>
+            <l>The Bishop mounts, and does the well knowne feat.</l>
+            <l>Another when his Lordships watch digrest,</l>
+            <l>As he himselfe did alwayes, to a feast</l>
+            <l>He invites himselfe: which ended, he requests</l>
+            <l>The Goodman of the house (there being no Guests!</l>
+            <pb facs="tcp:156993:5"/>
+            <l>To spoyle his sport) That he would set his watch</l>
+            <l>At his Sunne Dyall, at which he doth catch,</l>
+            <l>Proud of such favour, goes without deniall,</l>
+            <l>Meane while another's set by his wives noone dyall.</l>
+            <l>These are but tricks of youth, now arme your eares</l>
+            <l>With patience, for to heare of pallid feares:</l>
+            <l>Suppose a Devill from th'infernall Pit,</l>
+            <l>More Monsterlike, then ere was Devill yet,</l>
+            <l>Contrary to course, taking a male fiend</l>
+            <l>To Sodomize with him, such was the mind</l>
+            <l>Of this Lord Bishop, he did take a Childe</l>
+            <l>By name, not yeares, acting a sinne so vilde,</l>
+            <l>As is forenam'd; this Childe a Proctor too,</l>
+            <l>Nor him alone, but his Parrator he must doe;</l>
+            <l>These and a Thousand like these he hath done,</l>
+            <l>Besides endeavouring to eclipse the Sunne</l>
+            <l>Of this our Skie, by making Charles waine draw</l>
+            <l>Sublunary, by subverting the Law</l>
+            <l>Fundamentall, and putting in the place,</l>
+            <l>Commission high, Popes Canons, Great Lauds Grace.</l>
+            <l>For the subverting of such Devillish plots,</l>
+            <l>From staining of our Kingdome with such blots,</l>
+            <l>For th'happy raigne of our most Sacred King,</l>
+            <l>And those that from that Royall Stocke doe spring,</l>
+            <l>For Parliament, and health of Martiall men,</l>
+            <l>All Loyall Subjects cry with me, <hi>Amen.</hi>
+            </l>
+            <trailer>FJNJS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
